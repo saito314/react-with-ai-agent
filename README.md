@@ -23,7 +23,7 @@ graph TD
     end
 
     subgraph AI Service
-        C[LLM API <br> (例: Google Gemini API)]
+        C[LLM API]
     end
 
     A -- 1. 対話内容を送信 --> B
